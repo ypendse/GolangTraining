@@ -1,0 +1,1 @@
+main.Student{name:"lala", age:20, ContactInfo:main.ContactInfo{phone:"1234", email:"s@sample.com"}}
